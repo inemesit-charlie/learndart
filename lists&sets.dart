@@ -9,6 +9,7 @@ void main() {
    //print(scores.indexOf(99));
    print(scores);
 
-Set<String> names = {"Inemesit", "Divine", "David", "Divine"};
+Set<String> names = {"Inemesit", "Divine", "David"};
   print(names.length);
+
 }
