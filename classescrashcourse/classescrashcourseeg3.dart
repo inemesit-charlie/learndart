@@ -20,9 +20,8 @@ String toString() {
     } else {
       return super.toString();
     }
-    }
+ }
   }
-  
 
 class Car extends Vehicle {
   const Car() : super(4);
