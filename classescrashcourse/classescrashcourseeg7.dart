@@ -7,5 +7,4 @@ print(Person.name);
 
 class Person{
  static String name = '';
-
 }
